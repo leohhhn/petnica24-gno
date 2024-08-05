@@ -11,7 +11,7 @@ are installed before installing `gno`, `gnodev`, and `gnokey`.
 This step is optional but convenient. We have a few [supported editor extensions](https://github.com/gnolang/gno/blob/master/CONTRIBUTING.md#environment)
 that enable gno syntax highlighting, including VSCode, ViM, emacs, and Sublime.
 
-## gnokey
+## gnokey - the CLI wallet
 
 Let's generate a key pair. A key pair is what is used to sign transactions that are broadcast
 to the gno.land blockchain. In a real world context, they should not be shared.
