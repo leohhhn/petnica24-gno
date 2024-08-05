@@ -1,4 +1,4 @@
-# Petnica - P3 - Upvotes & Downvotes
+# Web3 Kamp - P3 -Upvotes & Downvotes
 
 1. Run `gnodev` in this folder with `gnodev .`.
 2. Check out the code comments in all files for TODO steps.

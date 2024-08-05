@@ -1,6 +1,4 @@
-# Petnica - P1
-
-## Local Installation
+# Web3 Kamp - P1 - Local Installation
 
 Follow the [installation steps](https://docs.gno.land/getting-started/local-setup/installation)
 to install the tools necessary to complete the workshop. First verify the prerequisite requirements

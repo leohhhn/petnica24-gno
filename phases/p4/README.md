@@ -1,4 +1,4 @@
-# Petnica - P4 - Tipping a post
+# Web3 Kamp - P4 - Tipping a post with `ugnot`
 
 1. Run `gnodev` in this folder with `gnodev .`.
 2. Check out the code comments in all files for TODO steps.

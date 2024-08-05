@@ -1,4 +1,4 @@
-# Petnica - P2
+# Web3 Kamp - P2 - Adding & RemovingPosts
 
 1. Run `gnodev` in this folder with `gnodev .`.
 2. Check out the code comments in `twitter.gno` for TODO steps!
