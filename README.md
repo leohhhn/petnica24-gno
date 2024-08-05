@@ -1,3 +1,5 @@
-# Petnica - P0
+# Petnica gno.land workshop
 
-1. 
+Welcome!
+
+This workshop contains multiple phases. Check out the phases folder to start.
