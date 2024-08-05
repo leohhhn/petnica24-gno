@@ -19,7 +19,7 @@ to the gno.land blockchain. In a real world context, they should not be shared.
 ### add
 
 Add a new key by running `gnokey add <keyname>`. Choose whichever key name you'd like. Shorter is better
-since you'll have to type it at least a few times. A passphrase is optional and in our case unnecessary, so 
+since you'll have to type it at least a few times. A passphrase is optional and in our case unnecessary, so
 you can enter through this without typing anything.
 
 Notice the mnemonic phrase that is generated. In a real world scenario, you would want to record this
@@ -32,15 +32,16 @@ Run `gnokey list`. You should see that a key has been added with the specified n
 ## gnodev
 
 `gnodev` is a tool to more easily facilitate development on gno.land. It's basic features include:
+
 - spinning up an in-memory node
 - automatically deploying local packages to the chain
 - reloading packages when file changes are made
 - starting a web server using `gnoweb` to provide a UI
 
-From this directory, try running `gnodev .`. If successful, the last line should be ``--- READY   ┃ I for commands and help, press `h` ``.
-
-Visit [localhost:8888/r/petnica/hello](http://localhost:8888/r/petnica/hello) to see the app in action.
+From this directory, try running `gnodev .`. If successful, the last line should be `` --- READY   ┃ I for commands and help, press `h`  ``.
 
 ## Setup complete!
 
 You've just set up a local gno.land development environment 🎉
+
+To see the Hello World example in action, visit [localhost:8888/r/petnica/hello](http://localhost:8888/r/petnica/hello).
